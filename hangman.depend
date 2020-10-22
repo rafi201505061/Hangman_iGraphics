@@ -1,0 +1,200 @@
+# depslib dependency file v1.0
+1463622645 source:d:\hangman\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+
+1462108168 d:\hangman\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1463848182 source:c:\users\asus\downloads\rafi\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+	<string.h>
+
+1462382717 c:\users\asus\downloads\rafi\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1464290646 source:c:\users\asus\documents\hangman\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+	<string.h>
+
+1462382717 c:\users\asus\documents\hangman\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1464428866 source:c:\users\asus\desktop\hangman\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+	<string.h>
+
+1462382718 c:\users\asus\desktop\hangman\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465329350 source:c:\users\asus\downloads\hangman\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+	<string.h>
+
+1465153734 c:\users\asus\downloads\hangman\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1465321383 c:\users\asus\downloads\hangman\texturelist.h
+	"texture.h"
+
+1464445804 c:\users\asus\downloads\hangman\texture.h
+
+1465417700 source:c:\users\asus\downloads\hangmanlatest2\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+	<string.h>
+
+1465153734 c:\users\asus\downloads\hangmanlatest2\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1465321383 c:\users\asus\downloads\hangmanlatest2\texturelist.h
+	"texture.h"
+
+1464445804 c:\users\asus\downloads\hangmanlatest2\texture.h
+
+1465417700 source:c:\users\asus\downloads\hangman(by rafi & samudro)\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+	<string.h>
+
+1465153734 c:\users\asus\downloads\hangman(by rafi & samudro)\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1465321383 c:\users\asus\downloads\hangman(by rafi & samudro)\texturelist.h
+	"texture.h"
+
+1464445804 c:\users\asus\downloads\hangman(by rafi & samudro)\texture.h
+
+1465417700 source:e:\downloaded\total download folder\hangman(by rafi & samudro)\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+	<string.h>
+
+1465153734 e:\downloaded\total download folder\hangman(by rafi & samudro)\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1465321383 e:\downloaded\total download folder\hangman(by rafi & samudro)\texturelist.h
+	"texture.h"
+
+1464445804 e:\downloaded\total download folder\hangman(by rafi & samudro)\texture.h
+
+1590770066 source:c:\users\asus\documents\hangman(by rafi & samudro)\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+	<string.h>
+
+1465153734 c:\users\asus\documents\hangman(by rafi & samudro)\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1590768205 c:\users\asus\documents\hangman(by rafi & samudro)\texturelist.h
+	"texture.h"
+
+1464445804 c:\users\asus\documents\hangman(by rafi & samudro)\texture.h
+
